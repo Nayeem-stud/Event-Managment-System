@@ -23,4 +23,4 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Nayeem-stud/Event-Managment-System.git
-   cd event-management-system
+
